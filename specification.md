@@ -20,8 +20,7 @@ The language is inspired by principles of HTML, YAML, and natural language, and 
 🛠️ Syntax Variants
 1. XML/HTML Style
 xml
-Zkopírovat
-Upravit
+
 <Prompt>
   <Goal>Increase sales of car care products</Goal>
   <TargetAudience>
@@ -43,8 +42,7 @@ Upravit
 </Prompt>
 2. YAML Style (Recommended for Non-Technical Users)
 yaml
-Zkopírovat
-Upravit
+
 Prompt:
   Goal: Increase sales of car care products
   TargetAudience:
