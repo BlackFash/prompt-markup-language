@@ -94,14 +94,22 @@ Designed specifically for AI collaboration
 
 Accessible to non-programmers
 
-✏️ Next Steps
-Version 0.2: Syntax validation and extension
+## 🚧 Next Steps
 
-Parser development (open-source or internal CLI)
+### Version 0.2 – Planned Enhancements
+- Syntax validation and structural consistency checks
+- Expansion of language constructs (e.g. conditionals, loops, modular blocks)
 
-Pilot tests in real-world use cases (marketing, HR, healthcare)
+### Tooling
+- Parser implementation (as open-source CLI or internal utility)
+- Web-based editor with live preview and AI-assisted suggestions
 
-Web editor with live preview and AI interaction
+### Pilot Testing in Real Use Cases
+- Initial deployment and feedback collection in selected domains:
+  - Marketing (prompt scripting, automation)
+  - Human Resources (feedback forms, onboarding flows)
+  - Healthcare (structured protocols, AI-enhanced instructions)
+
 
 Copyright © 2025 Michal Beran
 
