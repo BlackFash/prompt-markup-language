@@ -94,17 +94,17 @@ Designed specifically for AI collaboration
 
 Accessible to non-programmers
 
-## 🚧 Next Steps
+Next Steps
 
-### Version 0.2 – Planned Enhancements
+ Version 0.2 – Planned Enhancements
 - Syntax validation and structural consistency checks
 - Expansion of language constructs (e.g. conditionals, loops, modular blocks)
 
-### Tooling
+ Tooling
 - Parser implementation (as open-source CLI or internal utility)
 - Web-based editor with live preview and AI-assisted suggestions
 
-### Pilot Testing in Real Use Cases
+ Pilot Testing in Real Use Cases
 - Initial deployment and feedback collection in selected domains:
   - Marketing (prompt scripting, automation)
   - Human Resources (feedback forms, onboarding flows)
