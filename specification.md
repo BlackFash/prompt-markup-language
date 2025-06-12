@@ -1,0 +1,1 @@
+(Copy and paste here the translated English version of the Prompt Markup Language specification.)
